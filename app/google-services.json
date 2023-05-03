@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "590033525574",
+    "firebase_url": "https://farmy-839ea-default-rtdb.firebaseio.com",
+    "project_id": "farmy-839ea",
+    "storage_bucket": "farmy-839ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590033525574:android:b9e332a86b1926f407e347",
+        "android_client_info": {
+          "package_name": "com.example.farmie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590033525574-24phgbfrd24fjj88i37sg4mrt06tsdj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDh2vGj-IZ26UZL2TYxnKpgMnyrY3d6T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590033525574-24phgbfrd24fjj88i37sg4mrt06tsdj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
